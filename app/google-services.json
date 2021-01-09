@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "314203433374",
+    "project_id": "joyriders-94f9d",
+    "storage_bucket": "joyriders-94f9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314203433374:android:8c5a897c4f648b10e30e8f",
+        "android_client_info": {
+          "package_name": "com.anup.riderszone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314203433374-i47dhooibai9gab5ul4kave1kcb6pnsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anup.riderszone",
+            "certificate_hash": "ae9c00cbb44c2d9d1c32addf1486569affa57244"
+          }
+        },
+        {
+          "client_id": "314203433374-tfudbpum6pke5he2s9q9gvsgf6hsvgft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyYBGw-XQUzTrjkFHGXKPv3zuweLvIeTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314203433374-tfudbpum6pke5he2s9q9gvsgf6hsvgft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

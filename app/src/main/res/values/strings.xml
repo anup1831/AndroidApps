@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">RidersZone</string>
+    <string name="text_welcome">Welcome to the Rider\'s pit</string>
+    <string name="text_signup_options">Sign up options</string>
+    <string name="text_select">Select</string>
+    <string name="text_enter_your_email_id">Enter your email id</string>
+    <string name="text_enter_your_mobile_no">Enter your mobile number</string>
+    <string name="text_go">Go</string>
+    <string name="tv_facebook">Facebook</string>
+    <string name="tv_google">Google</string>
+    <string name="facebook_app_id">1100940147023713</string>
+    <string name="fb_login_protocol_scheme">fb1100940147023713</string>
+
+
+
+
+    <string-array name="signup_option_array">
+        <item>Mobile Number</item>
+        <item>Email</item>
+    </string-array>
 </resources>
