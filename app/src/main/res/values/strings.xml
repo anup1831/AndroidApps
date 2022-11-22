@@ -11,7 +11,8 @@
     <string name="facebook_app_id">1100940147023713</string>
     <string name="fb_login_protocol_scheme">fb1100940147023713</string>
 
-
+    <string name="google_web_client_id">AIzaSyDyYBGw-XQUzTrjkFHGXKPv3zuweLvIeTM</string>
+    <string name="google_signin_fail">Google sign in failed:(</string>
 
 
     <string-array name="signup_option_array">
