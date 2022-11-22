@@ -17,8 +17,7 @@ class JoyRidersApplication: Application() {
         super.onCreate()
         initialiseFbSDK()
         //initialiseGoogleClient()
-       //Adding comment to test the commit after a long time
-
+       //Created develop branch to test the jenking merge between branch to branch. Must remove later
     }
 
 //    private fun initialiseGoogleClient() {

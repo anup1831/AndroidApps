@@ -146,6 +146,26 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/separator" />
 
+    <View android:id="@+id/separator2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorPrimaryDark"
+        android:layout_marginTop="@dimen/_10sdp"
+        app:layout_constraintTop_toBottomOf="@id/tvBtnFbSignup"
+        />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/tvTestMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_50sdp"
+        android:gravity="center"
+        android:text="@string/text_test"
+
+        android:textSize="@dimen/_16ssp"
+        android:fontFamily="@font/montserrat_semi_bold"
+        app:layout_constraintTop_toBottomOf="@id/separator2"/>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
     </androidx.core.widget.NestedScrollView>
