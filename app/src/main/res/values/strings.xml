@@ -13,6 +13,7 @@
 
     <string name="google_web_client_id">AIzaSyDyYBGw-XQUzTrjkFHGXKPv3zuweLvIeTM</string>
     <string name="google_signin_fail">Google sign in failed:(</string>
+    <string name="text_test">Jenking mergint test. this need to remove later</string>
 
 
     <string-array name="signup_option_array">
