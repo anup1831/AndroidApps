@@ -1,4 +1,4 @@
 # AndroidApps
-Adding read file to test my jenkins impl
+Adding readme file to test my jenkins impl
 
-modify Gin to test.
+modify Git to test.
